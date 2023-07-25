@@ -5,7 +5,7 @@ Projeto CS: O programa analisa determinada imagem e retorna a cor e seu valor RG
 ## Modelos:
 - [Ponteiro do mouse](https://github.com/sb-uel/Sensor_Cor/blob/main/Ponteiro.py)
 - [Upload]()
-- [Webcam]()
+- [Webcam](https://github.com/sb-uel/Sensor_Cor/blob/main/Webcam.py)
 
 ## Integrantes: 
 - [gabryeleite](https://github.com/gabryeleite)
