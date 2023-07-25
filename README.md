@@ -3,7 +3,7 @@
 Projeto CS: O programa analisa determinada imagem e retorna a cor e seu valor RGB.
 
 ## Modelos:
-- [Ponteiro do mouse]()
+- [Ponteiro do mouse](https://github.com/sb-uel/Sensor_Cor/blob/main/Ponteiro.py)
 - [Upload]()
 - [Webcam]()
 
