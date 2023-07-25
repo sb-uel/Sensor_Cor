@@ -3,9 +3,9 @@
 Projeto CS: O programa analisa determinada imagem e retorna a cor e seu valor RGB.
 
 ## Modelos:
-- [Ponteiro do mouse](#ponteiro)
-- [Upload](#upload)
-- [Webcam](#webcam)
+- [Ponteiro do mouse]()
+- [Upload]()
+- [Webcam]()
 
 ## Integrantes: 
 - [gabryeleite](https://github.com/gabryeleite)
@@ -16,4 +16,4 @@ Projeto CS: O programa analisa determinada imagem e retorna a cor e seu valor RG
 - Python3
 - pip install opencv-python
 - pip install pywin32 (Terminal)
-- [Banco de cores]()
+- [Banco de cores](https://github.com/sb-uel/Sensor_Cor/blob/main/BancoCores.py)
