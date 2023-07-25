@@ -15,5 +15,5 @@ Projeto CS: O programa analisa determinada imagem e retorna a cor e seu valor RG
 ## Requisitos:
 - Python3
 - pip install opencv-python
-- pip install pywin32 (Terminal)
+- pip install pywin32 
 - [Banco de cores](https://github.com/sb-uel/Sensor_Cor/blob/main/BancoCores.py)
